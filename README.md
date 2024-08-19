@@ -2,9 +2,9 @@
 
 If you want to start with a token set for your design system but don't know how to proceed, this set can help.
 
-This set is part of the "Design Tokens Starter Set" an is primarily aimed at design roles that work with Figma. Find the related [free Figma-Library here](https://www.figma.com/community/file/1316042479653154791/design-tokens-starter-set-json-variables-tokens-studio-sync) and the JSON file was written with [Tokensstudio](https://tokens.studio/).
+This set is part of the "Design Tokens Starter Set" and primarily aims at design roles working with Figma. Find the related [free Figma-Library here](https://www.figma.com/community/file/1316042479653154791/design-tokens-starter-set-json-variables-tokens-studio-sync) and the JSON file was written with [Tokensstudio](https://tokens.studio/).
 
-This means the format still needs to be adapted in the Zeroheight tokens tool and will differ slightly from the recommended [W3C format] (https://design-tokens.github.io/community-group/format/)t.
+With the release of v2.0.0 from Tokens Studio, the token set is now in W3C DTCG format and therefore compatible with tools like Zeroheight or similar.
 
 ## Note
 
